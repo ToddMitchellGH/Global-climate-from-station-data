@@ -5,7 +5,6 @@ The purpuse of this repository is to share code to analyze Global Summary of the
 <p align="center">
 <img src="GSOD_global_distribution_map.png">
 </p>
-<img src="GSOD_global_distribution_map.png">
 
 Station data is valuable because these are raw observations.  Station measurements have errors like all data do, but they are the best record of the surface climate.
 

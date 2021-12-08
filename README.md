@@ -2,6 +2,8 @@
 
 The purpuse of this repository is to share code to analyze Global Summary of the Day (GSOD) data, a daily dataset of land station data that is free, distributed without restrictions, and updated daily by the <a href="https://data.noaa.gov/dataset/dataset/global-surface-summary-of-the-day-gsod">U.S. National Oceanic and Atmospheric Administration (NOAA)</a>.  There are approximately 9000 GSOD stations around the world.
 
+<img src="GSOD_global_distribution_map.png">
+
 Station data is valuable because these are raw observations.  Station measurements have errors like all data do, but they are the best record of the surface climate.
 
 Station data are a great complement to reanalysis data, global datasets that are derived from land station, ships at sea, and satellite observations that have been analyzed with the equations of atmospheric motion, mass conservation, and thermodynamic energy.  Reanalysis datasets have the virtue of being spatially and temporally complete, they are of very good quality, and they easy to analyze.

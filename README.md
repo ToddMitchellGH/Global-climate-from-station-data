@@ -14,11 +14,11 @@ Station data are a great complement to reanalysis data, global datasets that are
 
 My impression is that, although station data is an input to reanalysis, the reanalysis fields tend to be strongly determined by the satellite data input.  For this reason, the reanalysis and station data are not exactly the same, and the analysis of station data itself remains valuable.  
 
-Intial steps in analyzing GSOD data are to produce an inventory of the stations locations and periods of observations; and to figure out how to read and make simple plots of the data for individual stations.  The former is important, underway, and not very exciting; I will first be posting code and analyses for the latter here.  
+Intial steps in analyzing GSOD data are to produce an inventory of the stations locations and periods of observations; and to figure out how to read and make simple plots of the data for individual stations.  The former is important, underway, and not very exciting; I will first post code and analyses for the latter here.  
 
 The following images, given here with minimal explanation, provide a sense of the kinds of analyses one can do with the the GSOD data.  
 
-The native temporal resolution of the GSOD data is daily.  There are the daily minimum and maximum temperatures measured at the Lima Airport (Jorge Chavez International) for part of 2021.
+The native temporal resolution of the GSOD data is daily.  There are the daily minimum and maximum temperatures measured at the Lima Perú airport (Jorge Chavez International) for part of 2021.
 <p align="center">
   <img src="templimajanaug2021.png">
   </p>

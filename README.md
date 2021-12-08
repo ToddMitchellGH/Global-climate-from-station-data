@@ -6,7 +6,7 @@ The purpuse of this repository is to share code to analyze Global Summary of the
 <img src="GSOD_global_distribution_map.png">
 </p>
 
-The GSOD data comprises temperature, pressure, precipitation, a humidity variable, wind, and other variables.
+The GSOD data comprise temperature, pressure, precipitation, a humidity variable, wind, and other variables.
 
 Station data is valuable because these are raw observations.  Station measurements have errors like all data do, but they are the best record of the surface climate.
 

@@ -20,7 +20,7 @@ The following images, given here with minimal explanation, provide a sense of th
 
 The native temporal resolution of the GSOD data is daily.  There are the daily minimum and maximum temperatures measured at the Lima Perú airport (Jorge Chavez International) for part of 2021.
 <p align="center">
-  <img src="templimajanaug2021.png" width="500">
+  <img src="templimajanaug2021.png" width="650">
   </p>
   
 A monthly climatology of minimum temperatures for Lima, as measured at the airport. June through October experience the coldest minimum temperatures throughout the year.

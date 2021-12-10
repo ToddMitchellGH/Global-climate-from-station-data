@@ -3,7 +3,7 @@
 The purpose of this repository is to share code to analyze Global Summary of the Day (GSOD) data, a daily dataset of land station data that is free, distributed without restrictions, well-documented, and updated daily by the <a href="https://data.noaa.gov/dataset/dataset/global-surface-summary-of-the-day-gsod">U.S. National Oceanic and Atmospheric Administration (NOAA)</a>.  Kudos to NOAA for their efforts, leadership, and this contribution to the climate community.  There are approximately 9000 GSOD stations around the world.
 
 <p align="center">
-<img src="GSOD_global_distribution_map.png" width="750">
+<img src="GSOD_global_distribution_map.png">
 </p>
 
 The GSOD data comprise temperature, pressure, precipitation, a humidity variable, wind, and other variables.
@@ -20,7 +20,7 @@ The following images, given here with minimal explanation, provide a sense of th
 
 The native temporal resolution of the GSOD data is daily.  There are the daily minimum and maximum temperatures measured at the Lima Perú airport (Jorge Chavez International) for part of 2021.
 <p align="center">
-  <img src="templimajanaug2021.png">
+  <img src="templimajanaug2021.png" width="750">
   </p>
   
 A monthly climatology of minimum temperatures for Lima, as measured at the airport. June through October experience the coldest minimum temperatures throughout the year.

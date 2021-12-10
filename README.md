@@ -30,7 +30,7 @@ A monthly climatology of minimum temperatures for Lima, as measured at the airpo
   
   The long term variability of Lima cold season (June through October) minimum temperatures.  The values are plotted as deviation from the long-term mean.
   <p align="center">
-  <img src="tminlimaairportjjaso1960nov2021.png">
+  <img src="tminlimaairportjjaso1960nov2021.png" width="650">
   </p>
 
 Todd Mitchell, December 2021, toddclimate@gmail.com

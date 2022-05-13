@@ -20,7 +20,7 @@ The initial steps in analyzing GSOD data are to produce an inventory of the stat
 
 The following images, given here with minimal explanation, provide a sense of the kinds of analyses one can do with the the GSOD data.  
 
-The native temporal resolution of the GSOD data is daily.  There are the daily minimum and maximum temperatures measured at the Lima Perú airport (Jorge Chavez International) for part of 2021.
+The native temporal resolution of the GSOD data is daily.  These are the daily minimum and maximum temperatures measured at the Lima Perú airport (Jorge Chavez International) for part of 2021.
 <p align="center">
   <img src="templimajanaug2021.png" width="650">
   </p>
